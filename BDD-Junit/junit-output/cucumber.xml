@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0">
+<testcase classname="Organization feature test" name="verify user is able to create Organization" time="0">
+<system-out><![CDATA[Given user is in login page.................................................skipped
+Then user enters username and password and click on login button............skipped
+Then user click on Organization link........................................skipped
+Then user click on Create organization button...............................skipped
+Then user enters necessary details and click on save button.................skipped
+]]></system-out>
+</testcase>
+</testsuite>
